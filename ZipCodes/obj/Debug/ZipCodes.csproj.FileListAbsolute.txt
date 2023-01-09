@@ -1,0 +1,7 @@
+C:\Users\Nolan Pawelski\Desktop\ZipCodes\bin\Debug\ZipCodes.exe.config
+C:\Users\Nolan Pawelski\Desktop\ZipCodes\bin\Debug\ZipCodes.exe
+C:\Users\Nolan Pawelski\Desktop\ZipCodes\bin\Debug\ZipCodes.pdb
+C:\Users\Nolan Pawelski\Desktop\ZipCodes\obj\Debug\ZipCodes.csproj.AssemblyReference.cache
+C:\Users\Nolan Pawelski\Desktop\ZipCodes\obj\Debug\ZipCodes.csproj.CoreCompileInputs.cache
+C:\Users\Nolan Pawelski\Desktop\ZipCodes\obj\Debug\ZipCodes.exe
+C:\Users\Nolan Pawelski\Desktop\ZipCodes\obj\Debug\ZipCodes.pdb

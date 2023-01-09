@@ -1,0 +1,7 @@
+C:\Users\Nolan Pawelski\Desktop\Weekdays\bin\Debug\Weekdays.exe.config
+C:\Users\Nolan Pawelski\Desktop\Weekdays\bin\Debug\Weekdays.exe
+C:\Users\Nolan Pawelski\Desktop\Weekdays\bin\Debug\Weekdays.pdb
+C:\Users\Nolan Pawelski\Desktop\Weekdays\obj\Debug\Weekdays.csproj.AssemblyReference.cache
+C:\Users\Nolan Pawelski\Desktop\Weekdays\obj\Debug\Weekdays.csproj.CoreCompileInputs.cache
+C:\Users\Nolan Pawelski\Desktop\Weekdays\obj\Debug\Weekdays.exe
+C:\Users\Nolan Pawelski\Desktop\Weekdays\obj\Debug\Weekdays.pdb
