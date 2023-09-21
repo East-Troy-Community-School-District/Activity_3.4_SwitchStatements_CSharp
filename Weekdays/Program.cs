@@ -1,7 +1,8 @@
-﻿/*
+/*
  * Zip Codes
- * 1/8/2023
- * C#.NET I
+ * Pawelski
+ * 9/21/2023
+ * Developing Desktop Applications
  * 
  * Instructions:
  * This is a very complex program! Given teh month, day,
