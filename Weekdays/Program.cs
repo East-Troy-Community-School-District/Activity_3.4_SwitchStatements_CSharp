@@ -1,11 +1,11 @@
 /*
- * Zip Codes
+ * Weekdays
  * Pawelski
  * 9/21/2023
  * Developing Desktop Applications
  * 
  * Instructions:
- * This is a very complex program! Given teh month, day,
+ * This is a very complex program! Given the month, day,
  * and year of a date, this program reports the day of
  * the week that day occured on. If you are curious
  * on how to perform this calculation, check out this
